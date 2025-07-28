@@ -1,0 +1,61 @@
+
+# ========== Unity generated folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# ========== Visual Studio / JetBrains Rider ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+.vscode/
+.idea/
+.vs/
+
+# ========== OS-generated ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Unity Cache / Packages ==========
+Packages/com.unity.*
+Library/PackageCache/
+
+# ========== Crash / error / debug logs ==========
+sysinfo.txt
+*.stacktrace
+
+# ========== Auto-generated Lighting data ==========
+LightingData.asset
+
+# ========== Builds (optional) ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.xcodeproj/
+*.xcworkspace/
+
+# ========== Rider-specific ==========
+.idea/
+*.sln.iml
+
+# ========== Other ==========
+*.unitypackage
+*.orig
